@@ -2,7 +2,6 @@ Tasks App
 
 
 Welcome to the Tasks App! This is a simple web application where you can manage your tasks. The app is built using React for the front-end and Firebase for authentication.
-Live demo: [Add live demo link here]
  thank you so much 
 Installation
 To run this project locally, follow these steps:
